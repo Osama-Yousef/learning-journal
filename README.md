@@ -2,11 +2,13 @@
 *Growth Mindset is how to think positively and means that people should believe that their most basic abilities can be developed through dedication and hard work
 
 *there is a 3 reminders to myself of how to keep myself in a growth mindset :
+
 1.I must be a success man
 2.I should do my best to achieve what i want
 3.I can do this
 
 *There is 5 different features of Markdown to structure a web page :
+
 1.we dont need to know the html
 2.we can add symbols that we cant in html 
 3.it has more features than html for anything in styles
