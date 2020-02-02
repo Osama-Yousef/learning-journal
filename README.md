@@ -1,5 +1,5 @@
-# learning-journal
-*Growth Mindset is how to think positively and means that people should believe that their most basic abilities can be developed through dedication and hard work
+# Growth Mindset
+* is how to think positively and means that people should believe that their most basic abilities can be developed through dedication and hard work
 
 *there is a 3 reminders to myself of how to keep myself in a growth mindset :
 
