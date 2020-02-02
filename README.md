@@ -1,7 +1,7 @@
 # Growth Mindset
 * is how to think positively and means that people should believe that their most basic abilities can be developed through dedication and hard work
 
-* There is a 3 reminders to myself of how to keep myself in a growth mindset :
+*There is a 3 reminders to myself of how to keep myself in a growth mindset :
 
 1. I must be a success man
 
@@ -9,7 +9,7 @@
 
 3. I can do this
 
-* There is 5 different features of Markdown to structure a web page :
+*There is 5 different features of Markdown to structure a web page :
 
 1. we dont need to know the html
 
