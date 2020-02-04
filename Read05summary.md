@@ -8,14 +8,12 @@ also include CSS rules within an HTML page by placing them inside a <style> elem
 <head> element of the page and this is called using external css . why uSe externaL StyLe SheetS? the answer is that  When building 
 a website there are several advantages to placing your CSS rules in a separate style sheet.
  
-
 * CSS treats each HTML element as if it appears inside  X its own box and uses rules to indicate how that element should look.
 Rules are made up of selectors (that specify the  X elements the rule applies to) and declarations (that indicate what
 these elements should look like).Different types of selectors allow you to target your  X rules at different elements.
 Declarations are made up of two parts: the properties  X of the element that you want to change, and the values of 
 those properties. For example, the font-family property sets the choice of font, and the value arial specifies Arial
 as the preferred typeface.CSS rules usually appear in a separate document,  X although they may appear within an HTML page.
-
 
 # CH11 Summary
 
